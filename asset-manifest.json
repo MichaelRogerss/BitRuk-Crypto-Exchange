@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.563abf8d.css",
-    "main.js": "/static/js/main.42a28c8e.js",
-    "static/js/787.fec58e52.chunk.js": "/static/js/787.fec58e52.chunk.js",
-    "static/media/tether.svg": "/static/media/tether.440e163424487fdf082e3feae5ae28bc.svg",
-    "static/media/clock.svg": "/static/media/clock.13cd1080a1aaca70546dbabc7cf28d20.svg",
-    "static/media/btc.svg": "/static/media/btc.538003d562899670b750197345a59837.svg",
-    "static/media/paypal.svg": "/static/media/paypal.46a86bf68ce06972c1a717397ff6029e.svg",
-    "static/media/ltc.svg": "/static/media/ltc.976565d65ba4beb21aa127b0fa4509f7.svg",
-    "static/media/arrows.svg": "/static/media/arrows.5fdead8fbf3098e3ca332ab2e30e20af.svg",
-    "static/media/eth.svg": "/static/media/eth.62a154be45f36c0230e530ab4708b61b.svg",
-    "static/media/thumbs.svg": "/static/media/thumbs.eb81f15efc8c651ff77a28397ee83f6b.svg",
-    "index.html": "/index.html",
-    "static/media/downarrow.svg": "/static/media/downarrow.a0ee00a3387d2b1f991ee1888fadf6f0.svg",
-    "main.563abf8d.css.map": "/static/css/main.563abf8d.css.map",
-    "main.42a28c8e.js.map": "/static/js/main.42a28c8e.js.map",
-    "787.fec58e52.chunk.js.map": "/static/js/787.fec58e52.chunk.js.map"
+    "main.css": "/BitRuk-Crypto-Exchange/static/css/main.563abf8d.css",
+    "main.js": "/BitRuk-Crypto-Exchange/static/js/main.42a28c8e.js",
+    "static/js/787.fec58e52.chunk.js": "/BitRuk-Crypto-Exchange/static/js/787.fec58e52.chunk.js",
+    "static/media/tether.svg": "/BitRuk-Crypto-Exchange/static/media/tether.440e163424487fdf082e3feae5ae28bc.svg",
+    "static/media/clock.svg": "/BitRuk-Crypto-Exchange/static/media/clock.13cd1080a1aaca70546dbabc7cf28d20.svg",
+    "static/media/btc.svg": "/BitRuk-Crypto-Exchange/static/media/btc.538003d562899670b750197345a59837.svg",
+    "static/media/paypal.svg": "/BitRuk-Crypto-Exchange/static/media/paypal.46a86bf68ce06972c1a717397ff6029e.svg",
+    "static/media/ltc.svg": "/BitRuk-Crypto-Exchange/static/media/ltc.976565d65ba4beb21aa127b0fa4509f7.svg",
+    "static/media/arrows.svg": "/BitRuk-Crypto-Exchange/static/media/arrows.5fdead8fbf3098e3ca332ab2e30e20af.svg",
+    "static/media/eth.svg": "/BitRuk-Crypto-Exchange/static/media/eth.62a154be45f36c0230e530ab4708b61b.svg",
+    "static/media/thumbs.svg": "/BitRuk-Crypto-Exchange/static/media/thumbs.eb81f15efc8c651ff77a28397ee83f6b.svg",
+    "index.html": "/BitRuk-Crypto-Exchange/index.html",
+    "static/media/downarrow.svg": "/BitRuk-Crypto-Exchange/static/media/downarrow.a0ee00a3387d2b1f991ee1888fadf6f0.svg",
+    "main.563abf8d.css.map": "/BitRuk-Crypto-Exchange/static/css/main.563abf8d.css.map",
+    "main.42a28c8e.js.map": "/BitRuk-Crypto-Exchange/static/js/main.42a28c8e.js.map",
+    "787.fec58e52.chunk.js.map": "/BitRuk-Crypto-Exchange/static/js/787.fec58e52.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.563abf8d.css",
-    "static/js/main.42a28c8e.js"
+    "/BitRuk-Crypto-Exchange/static/css/main.563abf8d.css",
+    "/BitRuk-Crypto-Exchange/static/js/main.42a28c8e.js"
   ]
 }
